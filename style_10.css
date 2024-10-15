@@ -1,0 +1,94 @@
+body{
+    background-color: rgba(43, 10, 105, 0.68);
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    background-color: white;
+    width: 400px;
+    height: 500px;
+}
+
+h3{
+    text-align: start;
+    padding:  0 0 0 20px;
+    font-size: 30px;
+}
+
+hr{
+    margin: 10px 20px 20px 20px;
+}
+
+.row1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    padding: 1px;
+    gap: 30px;
+}
+
+.row2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 50px;
+}
+
+img{
+    width: 70px;
+    height: auto;
+}
+
+button{
+    border: none;
+    background-color: rgba(0, 0, 255, 0.708);
+    color: white;
+    font-size: 20px;
+    width: 350px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.one:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 110px;
+    padding: 4px;
+}
+
+.two:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 110px;
+    padding: 4px;
+}
+
+.three:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 110px;
+    padding: 4px;
+}
+
+.four:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 110px;
+    padding: 4px;
+}
+
+.five:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 110px;
+    padding: 4px;
+}
+
+.six:hover{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 110px;
+    padding: 4px;
+}
